@@ -24,3 +24,7 @@ The Book of Deuteronomy often lives in the shadow of the book of Exodus. Slavery
 
 ### Script
 - [Fuzzy Text Matching Script (Jupyter Notebook)](https://github.com/Josh-Been/Freedom-Narratives-Deuteronomy/blob/master/FuzzyTextMatching.ipynb)
+
+### Society for Biblical Literature
+ - [SBL Home](https://www.sbl-site.org)
+ - [2019 Annual Meeting](https://www.sbl-site.org/meetings/Congresses_ProgramBook.aspx?MeetingId=35)
