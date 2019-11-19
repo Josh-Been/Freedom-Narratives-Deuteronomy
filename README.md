@@ -19,7 +19,7 @@ The Book of Deuteronomy often lives in the shadow of the book of Exodus. Slavery
 - [Accounts Word Frequencies (.zip for size)](AccountsWordFrequencies.zip)
 
 ### Downloaded Datasets
- - [UNC DOcumenting the American South: North American Slave Narratives](https://josh-been.github.io/Freedom-Narratives-Deuteronomy/)
+ - [UNC Documenting the American South: North American Slave Narratives](https://josh-been.github.io/Freedom-Narratives-Deuteronomy/)
  - [Project Gutenberg: The Bible, King James version, Book 5: Deuteronomy by Anonymous](https://www.gutenberg.org/ebooks/8005)
 
 ### Script
