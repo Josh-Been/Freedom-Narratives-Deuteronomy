@@ -10,8 +10,9 @@ The Book of Deuteronomy often lives in the shadow of the book of Exodus. Slavery
  - [Introductory Slideshow](https://baylor0-my.sharepoint.com/:p:/g/personal/joshua_been_baylor_edu/EQKSsbP1zJ1MkYv5ikc9uOgBPAi4rVzQUISJDXgKkvPHuw?e=3HBLun)
  - [Data Management Plan](DMP.pdf)
  - Paper
+ - [Interactive Visualization](http://bit.ly/freedom_narratives)
 
-### Files
+### Data
 - [Fuzzy Text Matching Script (Jupyter Notebook)](https://github.com/Josh-Been/Freedom-Narratives-Deuteronomy/blob/master/FuzzyTextMatching.ipynb)
 - [Potential Fuzzy Text Matches](PotentialFuzzyTextMatches.txt)
 - [Confirmed Fuzzy Matches](ConfirmedFuzzyMatches.csv)
