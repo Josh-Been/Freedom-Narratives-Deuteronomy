@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Freedom Narratives and Artifacts of African American Interpretation of Deuteronomy: Digital Humanities Approach
 
 You can use the [editor on GitHub](https://github.com/Josh-Been/SBL-Freedom-Deuteronomy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
