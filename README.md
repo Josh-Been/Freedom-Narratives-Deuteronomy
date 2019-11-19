@@ -1,5 +1,6 @@
 ## Freedom Narratives and Artifacts of African American Interpretation of Deuteronomy: Digital Humanities Approach
 
+
  - Stephen Reid, George W. Truett Theological Seminary, Baylor University<br>
  - Joshua Been, University Libraries, Baylor University
 
