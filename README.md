@@ -9,7 +9,7 @@ The Book of Deuteronomy often lives in the shadow of the book of Exodus. Slavery
 ### Documents
  - [Introductory Slideshow](https://baylor0-my.sharepoint.com/:p:/g/personal/joshua_been_baylor_edu/EQKSsbP1zJ1MkYv5ikc9uOgBPAi4rVzQUISJDXgKkvPHuw?e=3HBLun)
  - [Data Management Plan](DMP.pdf)
- - Paper
+ - [Paper](Digital Humanities in Biblical Early Jewish and Christian Studies.pdf)
  - [Interactive Visualization](http://bit.ly/freedom_narratives)
 
 ### Data
