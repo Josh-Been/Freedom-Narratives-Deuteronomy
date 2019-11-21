@@ -23,7 +23,7 @@ The Book of Deuteronomy often lives in the shadow of the book of Exodus. Slavery
  - [Project Gutenberg: The Bible, King James version, Book 5: Deuteronomy by Anonymous](https://www.gutenberg.org/ebooks/8005)
 
 ### Script
-- [Fuzzy Text Matching Script (Jupyter Notebook)](https://github.com/Josh-Been/Freedom-Narratives-Deuteronomy/blob/master/FuzzyTextMatching.ipynb)
+- [Fuzzy Text Matching Script (Jupyter Notebook)](https://github.com/Josh-Been/Freedom-Narratives-Deuteronomy/blob/master/fuzzy.ipynb)
 
 ### Society for Biblical Literature
  - [SBL Home](https://www.sbl-site.org)
